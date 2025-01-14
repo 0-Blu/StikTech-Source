@@ -14,7 +14,7 @@
       "versionDescription": "# v1.11\n\n",
       "downloadURL": "https://github.com/StikTools/StikTools-iOS/releases/download/v1.11/StikTools.ipa",
       "localizedDescription": "StikTools is a versatile app designed to simplify your daily tasks, offering a range of tools in one easy-to-use interface.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
+      "iconURL": "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/StikTools_1-3.png",
       "tintColor": "#000000",
       "size": 4277356,
       "screenshotURLs": [
@@ -38,7 +38,7 @@
     },
     {
       "name": "Xash3D FWGS iOS",
-      "bundleIdentifier": "org.brandonplank.flappybird",
+      "bundleIdentifier": "su.FWGS.xash3d-ios",
       "developerName": "FWGS",
       "subtitle": "Xash3D Engine on iOS.",
       "version": "0.9.13",
