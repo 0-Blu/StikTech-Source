@@ -37,7 +37,7 @@
       ],
       "appPermissions": {
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "App saves qr codes to your Photo Library."
+          "NSPhotoLibraryAddUsageDescription": "App saves qr codes to your Photo Library."
         }
       }
     },
