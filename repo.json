@@ -1,0 +1,82 @@
+{
+  "name": "StikTech App Repo",
+  "identifier": "com.stik.repo",
+  "sourceURL": "https://apps.stik.tech/repo.json",
+  "iconURL": "https://github.com/StikTech/StikTech-Site/blob/main/StikTech.png?raw=true",
+  "userinfo": {},
+  "apps": [
+    {
+      "name": "StikTools",
+      "bundleIdentifier": "com.stik.StikTools",
+      "developerName": "Stephen,
+      "version": "1.11",
+      "versionDate": "2024-01-14T23:59:49Z",
+      "versionDescription": "# v1.11\n\n",
+      "downloadURL": "https://github.com/StikTools/StikTools-iOS/releases/download/v1.11/StikTools.ipa",
+      "localizedDescription": "StikTools is a versatile app designed to simplify your daily tasks, offering a range of tools in one easy-to-use interface.",
+      "iconURL": "https://i.imgur.com/JP0Fncv.png",
+      "tintColor": "#000000",
+      "size": 4277356,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/Simulator%20Screenshot%20-%20Screenshot%20-%202025-01-14%20at%2010.54.31.png",
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/Simulator%20Screenshot%20-%20Screenshot%20-%202025-01-14%20at%2010.54.51.png",
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/Simulator%20Screenshot%20-%20Screenshot%20-%202025-01-14%20at%2010.55.09.png"
+      ],
+      "subtitle": "StikTools - Your All-in-One Utility App.",
+      "absoluteVersion": "1.11",
+      "appID": "com.stik.StikTools",
+      "versions": [
+        {
+          "version": "1.11",
+          "date": "2024-01-14T23:59:49Z",
+          "downloadURL": "https://github.com/StikTools/StikTools-iOS/releases/download/v1.11/StikTools.ipa",
+          "localizedDescription": "# v1.11\n\n",
+          "size": 4277356,
+          "absoluteVersion": "1.11"
+        }
+      ]
+    },
+    {
+      "name": "Xash3D FWGS iOS",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "FWGS",
+      "subtitle": "Xash3D Engine on iOS.",
+      "version": "0.9.13",
+      "versionDate": "2024-01-14T20:54:11Z",
+      "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/xash3d_fwgs_ios_arm64_0.19.3.ipa,
+      "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
+      "iconURL": "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/75625335-764e2200-5bbd-11ea-8b69-baa8de5cdf79.png",
+      "tintColor": "#000000",
+      "size": 16242953,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/kckkc3w91hy11.png",
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/fluff-half-life-1-on-ipad-2-running-ios-6-v0-ws11xmyc31tb1.png",
+        "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/fluff-half-life-1-on-ipad-2-running-ios-6-v0-ro2r8qyc31tb1.png"
+      ],
+      "absoluteVersion": "0.9.13",
+      "versions": [
+        {
+          "version": "0.9.13",
+          "date": "2022-06-14T20:54:11Z",
+          "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/xash3d_fwgs_ios_arm64_0.19.3.ipa",
+          "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
+          "size": 16242953,
+          "absoluteVersion": "0.9.13"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "StikTech now has a repo!",
+      "identifier": "stiktech-new-repo",
+      "caption": "Bringing great apps straight to the users!!",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/StikTech/StikTech-Site/refs/heads/main/StikTech.png",
+      "date": "2025-01-14",
+      "notify": false
+    }
+  ],
+  "version": 2,
+  "apiVersion": "v2"
+}
