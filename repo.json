@@ -46,7 +46,7 @@
       "bundleIdentifier": "su.FWGS.xash3d-ios",
       "developerName": "FWGS",
       "subtitle": "Xash3D Engine on iOS.",
-      "version": "0.9.12",
+      "version": "6.0",
       "versionDate": "2024-01-14T20:54:11Z",
       "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/Xash3d-0.9.13.ipa",
       "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
@@ -58,15 +58,15 @@
         "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/fluff-half-life-1-on-ipad-2-running-ios-6-v0-ws11xmyc31tb1.png",
         "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/fluff-half-life-1-on-ipad-2-running-ios-6-v0-ro2r8qyc31tb1.png"
       ],
-      "absoluteVersion": "0.9.12",
+      "absoluteVersion": "6.0",
       "versions": [
         {
-          "version": "0.9.13",
+          "version": "6.0",
           "date": "2022-06-14T20:54:11Z",
           "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/Xash3d-0.9.13.ipa",
           "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
           "size": 16242953,
-          "absoluteVersion": "0.9.12"
+          "absoluteVersion": "6.0"
         }
       ]
     }
