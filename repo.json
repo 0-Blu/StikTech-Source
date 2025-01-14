@@ -48,7 +48,7 @@
       "subtitle": "Xash3D Engine on iOS.",
       "version": "0.9.13",
       "versionDate": "2024-01-14T20:54:11Z",
-      "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/xash3d_fwgs_ios_arm64_0.19.3.ipa",
+      "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/Xash3d-0.9.13.ipa",
       "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
       "iconURL": "https://raw.githubusercontent.com/0-Blu/StikTech-Source/refs/heads/main/75625335-764e2200-5bbd-11ea-8b69-baa8de5cdf79.png",
       "tintColor": "#000000",
@@ -63,7 +63,7 @@
         {
           "version": "0.9.13",
           "date": "2022-06-14T20:54:11Z",
-          "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/xash3d_fwgs_ios_arm64_0.19.3.ipa",
+          "downloadURL": "https://github.com/0-Blu/xash3d/releases/download/0.9.13/Xash3d-0.9.13.ipa",
           "localizedDescription": "Xash3D Engine is a custom Gold Source engine rewritten from scratch.",
           "size": 16242953,
           "absoluteVersion": "0.9.13"
