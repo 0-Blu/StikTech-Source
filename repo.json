@@ -34,7 +34,12 @@
           "size": 4277356,
           "absoluteVersion": "1.11"
         }
-      ]
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App saves qr codes to your Photo Library."
+        }
+      }
     },
     {
       "name": "Xash3D FWGS iOS",
